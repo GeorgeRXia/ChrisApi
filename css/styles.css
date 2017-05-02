@@ -1,0 +1,42 @@
+* {
+  border-sizing: border-box; }
+
+header {
+  text-align: center; }
+
+#outter-container {
+  display: flex;
+  flex-wrap: wrap;
+  border: 2px solid red;
+  width: 1000px;
+  margin: 0 auto;
+  height: 1000px; }
+
+.pictures-content-container {
+  height: 30%;
+  width: 30%;
+  background-size: 100% 100%;
+  border: 2px solid black;
+  margin: 0 auto; }
+
+.pictures {
+  border: 2px solid green;
+  margin: 5px auto;
+  height: 70%;
+  width: 100%;
+  background-size: 100% 100%; }
+
+.content {
+  width: 100%;
+  height: 30%;
+  text-align: center;
+  font-size: 10px;
+  margin-top: 5px; }
+
+.slabo {
+  font-family: 'Slabo 27px', serif; }
+
+.lato {
+  font-family: 'Lato', sans-serif; }
+
+/*# sourceMappingURL=styles.css.map */
